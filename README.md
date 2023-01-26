@@ -7,7 +7,7 @@ This project is based upon the [Cesium plugin](https://github.com/Microsoft/Chak
 # Setup
  - The level is based upon 2 tilesets.
     - Bing as the base tileset.
-    - Gränsö tileset loaded from the waraps tileserver places upon the bing tileset.
+    - Gränsö tileset loaded from the waraps tileserver and placed upon the bing tileset.
 
 # Try it out
  - Open the Unreal project with version 5.1.
