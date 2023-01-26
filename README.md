@@ -1,5 +1,6 @@
 # Introduction 
 This project is based upon the [Cesium plugin](https://github.com/Microsoft/ChakraCore) for unreal and one of its template scenes.
+![alt text](https://github.com/wara-ps/cesium-unreal/blob/master/Preview/unreal-1.PNG?raw=true)
 
 # Requirements
  - Unreal Engine 5.1 installed with the cesium plugin added to your library.
